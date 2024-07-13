@@ -28,5 +28,6 @@ url = "https://www.101evler.com/north-cyprus/houses-to-rent?page=1"
 response = scraper.get(url)
     
 soup = BeautifulSoup(response.text, 'html.parser')
+print(soup)
 
 listings = soup.find('div', class_='basicilandiv')

@@ -61,7 +61,6 @@ try:
                 "price": price
             }
             
-            all_listings.append(listing_data)
             
             print(f"Listing {index}:")
             print(f"  Title: {title}")

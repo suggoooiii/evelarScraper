@@ -13,8 +13,6 @@ logging.basicConfig(filename='scraper.log', level=logging.INFO,
 # Create a scraper instance
 scraper = cloudscraper.create_scraper(delay=10, browser='chrome')
 
-url = "https://www.101evler.com/north-cyprus/houses-to-rent?page=1"
-
 
 def load_existing_listings():
     try:
@@ -84,7 +82,44 @@ def scrape_listings(url):
         return []
 
 
-scrape_listings(url)
+def save_listings(new_listings):
+    existing_listings = load_existing_listings()
+
+    # Combine existing listings with new listings
+    updated_listings = existing_listings + new_listings
+
+    # Remove duplicates
+    unique_listings = []
+    seen = set()
+    for listing in updated_listings:
+        # Create a tuple of the listing's key attributes
+        listing_key = (listing['title'], listing['price'],
+                       listing['location'], listing['area'], listing['rooms'])
+        if listing_key not in seen:
+            seen.add(listing_key)
+            unique_listings.append(listing)
+
+    # Write the combined list back to the file
+    with open('listings.json', 'w', encoding='utf-8') as f:
+        json.dump(unique_listings, f, ensure_ascii=False, indent=2)
+
+    logging.info(
+        f"Added {len(new_listings)} new listings. Total unique listings: {len(unique_listings)}")
+
+
+def main():
+    url = "https://www.101evler.com/north-cyprus/houses-to-rent?page=1"
+
+    new_listings = scrape_listings(url)
+
+    if new_listings:
+        save_listings(new_listings)
+    else:
+        logging.info("No new listings found.")
+
+
+if __name__ == "__main__":
+    main()
 
 # load_existing_listings()
 # try:

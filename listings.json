@@ -1,362 +1,234 @@
 [
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£1,500"
-    },
-    {
-        "title": "2+1 FLAT FOR RENT WITH GARDEN AND SHARED POOL IN BELLAVİEW SITE IN BELLAPAİS, KYRENIA",
-        "price": "£1,000"
-    },
-    {
-        "title": "Flat To Rent in Alsancak, Kyrenia",
-        "price": "£500"
-    },
-    {
-        "title": "Villa To Rent in Çatalköy, Kyrenia",
-        "price": "£1,850"
-    },
-    {
-        "title": "Flat To Rent in Aşağı Girne, Kyrenia",
-        "price": "£1,200"
-    },
-    {
-        "title": "Flat To Rent in Aşağı Girne, Kyrenia",
-        "price": "£1,200"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£1,100"
-    },
-    {
-        "title": "Flat To Rent in Yukarı Girne, Kyrenia",
-        "price": "£850"
-    },
-    {
-        "title": "Penthouse To Rent in Girne Merkez, Kyrenia",
-        "price": "£2,500"
-    },
-    {
-        "title": "Villa To Rent in Çatalköy, Kyrenia",
-        "price": "£4,500"
-    },
-    {
-        "title": "Flat To Rent in Küçük Kaymaklı, Nicosia",
-        "price": "£350"
-    },
-    {
-        "title": "2+1 Flat For Rent in Göçmenköy",
-        "price": "£450"
-    },
-    {
-        "title": "2+1 with private garden in Zeytinlik",
-        "price": "£850"
-    },
-    {
-        "title": "Residence To Rent in Zeytinlik, Kyrenia",
-        "price": "£1,100"
-    },
-    {
-        "title": "Comfortable 3+1 perfect villa",
-        "price": "£1,200"
-    },
-    {
-        "title": "Luxury 3+1 Flat for rent in Kyrenia Center",
-        "price": "£550"
-    },
-    {
-        "title": "Spacious 3+1 Flat in Kyrenia Center",
-        "price": "£650"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£700"
-    },
-    {
-        "title": "Luxury residence 2+1 Furnished Apartment",
-        "price": "£600"
-    },
-    {
-        "title": "Comfortable 3+1 Detached House for Rent (shared pool)",
-        "price": "£1,000"
-    },
-    {
-        "title": "Final and Kyrenia University area 1+1 Flat for rent on the road",
-        "price": "£450"
-    },
-    {
-        "title": "Villa To Rent in Karaoğlanoğlu, Kyrenia",
-        "price": "£1,800"
-    },
-    {
-        "title": "Flat To Rent in Karaoğlanoğlu, Kyrenia",
-        "price": "£420"
-    },
-    {
-        "title": "2+1 super luxury apartment for rent in Kyrenia center",
-        "price": "£1,000"
-    },
-    {
-        "title": "2+1 penthouse apartment for rent in Kyrenia, Akacan",
-        "price": "£1,250"
-    },
-    {
-        "title": "Unfurnished 2+1 Flat for Rent in a New Building Close to Alsancak Municipality",
-        "price": "£600"
-    },
-    {
-        "title": "Villa To Rent in Zeytinlik, Kyrenia",
-        "price": "£2,500"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£430"
-    },
-    {
-        "title": "GİRNE/ KARAOĞLANOĞLU 3+1 TWIN VILLA FOR RENT",
-        "price": "£950"
-    },
-    {
-        "title": "2+1 LUXURY FLAT FOR RENT IN KYRENIA/MRK.",
-        "price": "£650"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£1,500"
-    },
-    {
-        "title": "2+1 FLAT FOR RENT WITH GARDEN AND SHARED POOL IN BELLAVİEW SITE IN BELLAPAİS, KYRENIA",
-        "price": "£1,000"
-    },
-    {
-        "title": "Flat To Rent in Alsancak, Kyrenia",
-        "price": "£500"
-    },
-    {
-        "title": "Villa To Rent in Çatalköy, Kyrenia",
-        "price": "£1,850"
-    },
-    {
-        "title": "Flat To Rent in Aşağı Girne, Kyrenia",
-        "price": "£1,200"
-    },
-    {
-        "title": "Flat To Rent in Aşağı Girne, Kyrenia",
-        "price": "£1,200"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£1,100"
-    },
-    {
-        "title": "Flat To Rent in Yukarı Girne, Kyrenia",
-        "price": "£850"
-    },
-    {
-        "title": "Penthouse To Rent in Girne Merkez, Kyrenia",
-        "price": "£2,500"
-    },
-    {
-        "title": "Villa To Rent in Çatalköy, Kyrenia",
-        "price": "£4,500"
-    },
-    {
-        "title": "Flat To Rent in Küçük Kaymaklı, Nicosia",
-        "price": "£350"
-    },
-    {
-        "title": "2+1 Flat For Rent in Göçmenköy",
-        "price": "£450"
-    },
-    {
-        "title": "2+1 with private garden in Zeytinlik",
-        "price": "£850"
-    },
-    {
-        "title": "Residence To Rent in Zeytinlik, Kyrenia",
-        "price": "£1,100"
-    },
-    {
-        "title": "GİRNE/ KARAOĞLANOĞLU 3+1 TWIN VILLA FOR RENT",
-        "price": "£950"
-    },
-    {
-        "title": "KYRENIA/LOWER KYRENIA 3+1 FLAT FOR RENT",
-        "price": "£750"
-    },
-    {
-        "title": "2+1 spacious apartment for rent in Kyrenia, Alsancak",
-        "price": "£600"
-    },
-    {
-        "title": "1+1 LUXURY FLAT FOR RENT IN KYRENIA/MRK.",
-        "price": "£500"
-    },
-    {
-        "title": "3+1 Fully Furnished Luxury Flat for Rent by Owner, for Students, with Fireplace, Air Conditioning, in Gonyeli, Behind Dürümcü Baba (Annual Advance) October Cont...",
-        "price": "£530"
-    },
-    {
-        "title": "Comfortable 3+1 perfect villa",
-        "price": "£1,200"
-    },
-    {
-        "title": "Luxury 3+1 Flat for rent in Kyrenia Center",
-        "price": "£550"
-    },
-    {
-        "title": "Spacious 3+1 Flat in Kyrenia Center",
-        "price": "£650"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£700"
-    },
-    {
-        "title": "Luxury residence 2+1 Furnished Apartment",
-        "price": "£600"
-    },
-    {
-        "title": "Comfortable 3+1 Detached House for Rent (shared pool)",
-        "price": "£1,000"
-    },
-    {
-        "title": "Final and Kyrenia University area 1+1 Flat for rent on the road",
-        "price": "£450"
-    },
-    {
-        "title": "Villa To Rent in Karaoğlanoğlu, Kyrenia",
-        "price": "£1,800"
-    },
-    {
-        "title": "Flat To Rent in Karaoğlanoğlu, Kyrenia",
-        "price": "£420"
-    },
-    {
-        "title": "2+1 super luxury apartment for rent in Kyrenia center",
-        "price": "£1,000"
-    },
-    {
-        "title": "2+1 penthouse apartment for rent in Kyrenia, Akacan",
-        "price": "£1,250"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£1,500"
-    },
-    {
-        "title": "2+1 FLAT FOR RENT WITH GARDEN AND SHARED POOL IN BELLAVİEW SITE IN BELLAPAİS, KYRENIA",
-        "price": "£1,000"
-    },
-    {
-        "title": "Flat To Rent in Alsancak, Kyrenia",
-        "price": "£500"
-    },
-    {
-        "title": "Villa To Rent in Çatalköy, Kyrenia",
-        "price": "£1,850"
-    },
-    {
-        "title": "Flat To Rent in Aşağı Girne, Kyrenia",
-        "price": "£1,200"
-    },
-    {
-        "title": "Flat To Rent in Aşağı Girne, Kyrenia",
-        "price": "£1,200"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£1,100"
-    },
-    {
-        "title": "Flat To Rent in Yukarı Girne, Kyrenia",
-        "price": "£850"
-    },
-    {
-        "title": "Penthouse To Rent in Girne Merkez, Kyrenia",
-        "price": "£2,500"
-    },
-    {
-        "title": "Villa To Rent in Çatalköy, Kyrenia",
-        "price": "£4,500"
-    },
-    {
-        "title": "Flat To Rent in Küçük Kaymaklı, Nicosia",
-        "price": "£350"
-    },
-    {
-        "title": "2+1 Flat For Rent in Göçmenköy",
-        "price": "£450"
-    },
-    {
-        "title": "2+1 with private garden in Zeytinlik",
-        "price": "£850"
-    },
-    {
-        "title": "Residence To Rent in Zeytinlik, Kyrenia",
-        "price": "£1,100"
-    },
-    {
-        "title": "GİRNE/ KARAOĞLANOĞLU 3+1 TWIN VILLA FOR RENT",
-        "price": "£950"
-    },
-    {
-        "title": "KYRENIA/LOWER KYRENIA 3+1 FLAT FOR RENT",
-        "price": "£750"
-    },
-    {
-        "title": "2+1 spacious apartment for rent in Kyrenia, Alsancak",
-        "price": "£600"
-    },
-    {
-        "title": "1+1 LUXURY FLAT FOR RENT IN KYRENIA/MRK.",
-        "price": "£500"
-    },
-    {
-        "title": "3+1 Fully Furnished Luxury Flat for Rent by Owner, for Students, with Fireplace, Air Conditioning, in Gonyeli, Behind Dürümcü Baba (Annual Advance) October Cont...",
-        "price": "£530"
-    },
-    {
-        "title": "Comfortable 3+1 perfect villa",
-        "price": "£1,200"
-    },
-    {
-        "title": "Luxury 3+1 Flat for rent in Kyrenia Center",
-        "price": "£550"
-    },
-    {
-        "title": "Spacious 3+1 Flat in Kyrenia Center",
-        "price": "£650"
-    },
-    {
-        "title": "Flat To Rent in Girne Merkez, Kyrenia",
-        "price": "£700"
-    },
-    {
-        "title": "Luxury residence 2+1 Furnished Apartment",
-        "price": "£600"
-    },
-    {
-        "title": "Comfortable 3+1 Detached House for Rent (shared pool)",
-        "price": "£1,000"
-    },
-    {
-        "title": "Final and Kyrenia University area 1+1 Flat for rent on the road",
-        "price": "£450"
-    },
-    {
-        "title": "Villa To Rent in Karaoğlanoğlu, Kyrenia",
-        "price": "£1,800"
-    },
-    {
-        "title": "Flat To Rent in Karaoğlanoğlu, Kyrenia",
-        "price": "£420"
-    },
-    {
-        "title": "2+1 super luxury apartment for rent in Kyrenia center",
-        "price": "£1,000"
-    },
-    {
-        "title": "2+1 penthouse apartment for rent in Kyrenia, Akacan",
-        "price": "£1,250"
-    }
+  {
+    "title": "2+1 FLAT FOR RENT WITH GARDEN AND SHARED POOL IN BELLAVİEW SITE IN BELLAPAİS, KYRENIA",
+    "price": "£1,000",
+    "location": "Bellapais / Kyrenia",
+    "area": "105m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.396442"
+  },
+  {
+    "title": "Flat To Rent in Alsancak, Kyrenia",
+    "price": "£500",
+    "location": "Alsancak / Kyrenia",
+    "area": "65m²",
+    "rooms": "1+1",
+    "scraped_at": "2024-07-22T05:33:24.396841"
+  },
+  {
+    "title": "Flat To Rent in Göçmenköy, Nicosia",
+    "price": "£300",
+    "location": "Göçmenköy / Nicosia",
+    "area": "70m²",
+    "rooms": "1+1",
+    "scraped_at": "2024-07-22T05:33:24.397024"
+  },
+  {
+    "title": "Flat To Rent in Yukarı Girne, Kyrenia",
+    "price": "£850",
+    "location": "Yukarı Girne / Kyrenia",
+    "area": "75m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.397147"
+  },
+  {
+    "title": "Penthouse To Rent in Girne Merkez, Kyrenia",
+    "price": "£2,500",
+    "location": "Girne Merkez / Kyrenia",
+    "area": "135m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.397273"
+  },
+  {
+    "title": "Villa To Rent in Çatalköy, Kyrenia",
+    "price": "£4,500",
+    "location": "Çatalköy / Kyrenia",
+    "area": "300m²",
+    "rooms": "5+1",
+    "scraped_at": "2024-07-22T05:33:24.397397"
+  },
+  {
+    "title": "Flat To Rent in Aşağı Girne, Kyrenia",
+    "price": "£1,200",
+    "location": "Aşağı Girne / Kyrenia",
+    "area": "115m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.397516"
+  },
+  {
+    "title": "Villa To Rent in Çatalköy, Kyrenia",
+    "price": "£1,850",
+    "location": "Çatalköy / Kyrenia",
+    "area": "195m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.397639"
+  },
+  {
+    "title": "Flat To Rent in Girne Merkez, Kyrenia",
+    "price": "£1,100",
+    "location": "Girne Merkez / Kyrenia",
+    "area": "140m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.397757"
+  },
+  {
+    "title": "Flat To Rent in Girne Merkez, Kyrenia",
+    "price": "£1,500",
+    "location": "Girne Merkez / Kyrenia",
+    "area": "2500m²",
+    "rooms": "3+2",
+    "scraped_at": "2024-07-22T05:33:24.397997"
+  },
+  {
+    "title": "2+1 Flat For Rent in Göçmenköy",
+    "price": "£450",
+    "location": "Göçmenköy / Nicosia",
+    "area": "75m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.398125"
+  },
+  {
+    "title": "Residence To Rent in Zeytinlik, Kyrenia",
+    "price": "£1,100",
+    "location": "Zeytinlik / Kyrenia",
+    "area": "185m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.398240"
+  },
+  {
+    "title": "KAYMAKLI 3+1 FLAT FOR RENT!! AVAILABLE AT THE END OF FEBRUARY!!",
+    "price": "£600",
+    "location": "Küçük Kaymaklı / Nicosia",
+    "area": "120m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.398363"
+  },
+  {
+    "title": "DEREBOYU 2+1 FLAT FOR RENT!!",
+    "price": "£500",
+    "location": "Köşklüçiftlik / Nicosia",
+    "area": "85m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.398489"
+  },
+  {
+    "title": "YENISEHIR 1+1 FLAT FOR RENT!!",
+    "price": "£350",
+    "location": "Yenişehir / Nicosia",
+    "area": "85m²",
+    "rooms": "1+1",
+    "scraped_at": "2024-07-22T05:33:24.398615"
+  },
+  {
+    "title": "ORTAKÖY 3+1 DETACHED VILLA !!",
+    "price": "£800",
+    "location": "Ortaköy / Nicosia",
+    "area": "165m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.398738"
+  },
+  {
+    "title": "ORTAKÖY 3+1 APARTMENT FOR RENT!!",
+    "price": "£600",
+    "location": "Ortaköy / Nicosia",
+    "area": "120m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.398858"
+  },
+  {
+    "title": "ORTAKÖY 2+1 FLAT FOR RENT! FOR STUDENT ONLY! AVAILABLE JULY 1 AND SEPTEMBER 1",
+    "price": "£350",
+    "location": "Ortaköy / Nicosia",
+    "area": "",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.398970"
+  },
+  {
+    "title": "ORTAKÖY 2+1 FLAT FOR RENT!!",
+    "price": "£450",
+    "location": "Ortaköy / Nicosia",
+    "area": "90m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.399099"
+  },
+  {
+    "title": "ORTAKÖY 3+1 FLAT FOR RENT!!",
+    "price": "£550",
+    "location": "Ortaköy / Nicosia",
+    "area": "120m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.399219"
+  },
+  {
+    "title": "ORTAKÖY 3+1 APARTMENT FOR RENT!!",
+    "price": "£650",
+    "location": "Ortaköy / Nicosia",
+    "area": "120m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.399339"
+  },
+  {
+    "title": "KAYMAKLI 3+1 FLAT FOR RENT!! AVAILABLE JULY 10!!",
+    "price": "₺18,000",
+    "location": "Küçük Kaymaklı / Nicosia",
+    "area": "120m²",
+    "rooms": "3+1",
+    "scraped_at": "2024-07-22T05:33:24.399452"
+  },
+  {
+    "title": "Flat To Rent in Göçmenköy, Nicosia",
+    "price": "£280",
+    "location": "Göçmenköy / Nicosia",
+    "area": "50m²",
+    "rooms": "1+0",
+    "scraped_at": "2024-07-22T05:33:24.399563"
+  },
+  {
+    "title": "Flat To Rent in Göçmenköy, Nicosia",
+    "price": "£475",
+    "location": "Göçmenköy / Nicosia",
+    "area": "85m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.399688"
+  },
+  {
+    "title": "Flat To Rent in Marmara, Nicosia",
+    "price": "£400",
+    "location": "Marmara / Nicosia",
+    "area": "85m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.399804"
+  },
+  {
+    "title": "Flat To Rent in Yenikent, Nicosia",
+    "price": "£450",
+    "location": "Yenikent / Nicosia",
+    "area": "85m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.399937"
+  },
+  {
+    "title": "Flat To Rent in Ortaköy, Nicosia",
+    "price": "£450",
+    "location": "Ortaköy / Nicosia",
+    "area": "85m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.400064"
+  },
+  {
+    "title": "Flat To Rent in Gönyeli, Nicosia",
+    "price": "£450",
+    "location": "Gönyeli / Nicosia",
+    "area": "90m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.400180"
+  },
+  {
+    "title": "Flat To Rent in Yenikent, Nicosia",
+    "price": "£400",
+    "location": "Yenikent / Nicosia",
+    "area": "85m²",
+    "rooms": "2+1",
+    "scraped_at": "2024-07-22T05:33:24.400302"
+  }
 ]
